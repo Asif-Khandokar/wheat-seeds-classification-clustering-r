@@ -577,9 +577,9 @@ https://archive.ics.uci.edu/dataset/236/seeds
 MSc Data Science & Analytics  
 Brunel University London
 
-GitHub: `YOUR-GITHUB-PROFILE-LINK`
+GitHub:  https://github.com/Asif-Khandokar
 
-LinkedIn: `YOUR-LINKEDIN-PROFILE-LINK`
+LinkedIn: https://www.linkedin.com/in/asif-khandokar/
 
 ---
 
