@@ -449,7 +449,7 @@ git clone https://github.com/YOUR-USERNAME/wheat-seeds-classification-clustering
 Open:
 
 ```text
-wheat_seeds_project.R
+Wheat Seed Classification & Clustering.R
 ```
 
 using **RStudio**.
